@@ -1,7 +1,7 @@
 import socket
 import threading
 
-host = '192.168.178.79' #ip address (private ip address) to connect
+host = #insert ip address #ip address (private ip address) to connect
 port = 55555 #port to connect
 addr = (host, port) #addr is host:port -> 125.34.22.1:56753
 format = 'ascii' #format to decode and encode date
